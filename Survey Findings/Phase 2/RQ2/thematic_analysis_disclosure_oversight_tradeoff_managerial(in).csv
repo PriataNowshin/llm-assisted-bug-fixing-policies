@@ -1,0 +1,31 @@
+Open Code,Domain,Policy Area,Axial Code / Theme
+Full disclosure - compliance and openness are more significant than speed.,High-risk,Disclosure,Compliance and Trust
+It delays development but enhances accountability and builds trust.,High-risk,Disclosure,Accountability vs. Speed
+"Yes, it will take more time but it will improve trust ",High-risk,Disclosure,Compliance and Trust
+Compliance-sensitive areas,High-risk,Disclosure,Compliance and Trust
+"compliance-sensitive areas, maintaining standards, legal issues",High-risk,Disclosure,Compliance and Trust
+"Strict compliance may lock teams into cumbersome processes, stifling innovation. So the prcess should be well defined and well mature so its execution is well defined.  AI disclosure creation should be a parallel task for every AI creation and its not time consuming if the right template and right framework is in place. In the case, any certain legal assessment is taking longer time than exception and its urgent to relelase that work, a well-defined exceptional process should be also defined which should mandate that the criteria for certain exception and necessary action to be taken, ",High-risk,Disclosure,Compliance and Trust
+Un-intentional mistake & lack of accountability (blaming AI),High-risk,Disclosure,Accountability Concerns
+Partial disclosure: less stringent regulations to preserve some transparency while safeguarding productivity.,Low-risk,Disclosure,Minimal Disclosure
+Additional effort,Low-risk,Disclosure,Cost/Effort Concerns
+Minimum disclosure will save time ,Low-risk,Disclosure,Minimal Disclosure
+Non critical issues in future,Low-risk,Disclosure,Minimal Disclosure
+Extra development cost,Low-risk,Disclosure,Cost/Effort Concerns
+The practice should have well defined definition for ,Low-risk,Disclosure,Minimal Disclosure
+Task overload,Low-risk,Disclosure,Minimal Disclosure
+"Level of Supervision: Complete Human Supervision   Trade-off/Explanation: High reliability, fewer critical errors, and compliance are all guaranteed, but delivery is slower.",High-risk,Oversight,Complete Human Supervision
+Offers greater reliability and minimizes critical errors.,High-risk,Oversight,Reliability over Speed
+Still we can't rely fully on AI tools in high risk domain ,High-risk,Oversight,Reliability over Speed
+Slows down the process,High-risk,Oversight,Accountability vs. Speed
+compliance-sensitive areas,High-risk,Oversight,Reliability over Speed
+speed also needs to have certain levle of quality. Its ok to not have perfect prpduct but the threshold for quality should be achieved. ,High-risk,Oversight,Pragmatic Thresholds
+Duplicate work,High-risk,Oversight,Accountability vs. Speed
+Faster,High-risk,Oversight,Reliability over Speed
+"Level of Oversight: Partial Human   Trade-off/Explanation: Quicker delivery, with a small chance of sporadic errors, but minimal impact and a focus on productivity.",Low-risk,Oversight,Partial Oversight
+It accelerates delivery but could cause problems later on.,Low-risk,Oversight,Partial Oversight
+It will speed up the delivery but it may reduce the creativity of developers ,Low-risk,Oversight,Faster Delivery vs. Sporadic Errors
+May encounter issues in future,Low-risk,Oversight,Partial Oversight
+non-critical front-end features,Low-risk,Oversight,Partial Oversight
+"Its like if you secure your house and keep a small window open, its can still cause the security threat. So responsible usage framework should be well defined for each component with regular enablement to ensure right implementation",Low-risk,Oversight,Partial Oversight
+Task overload,Low-risk,Oversight,Task Load Concerns
+Slower. Still not good with ui or FE,Low-risk,Oversight,Partial Oversight

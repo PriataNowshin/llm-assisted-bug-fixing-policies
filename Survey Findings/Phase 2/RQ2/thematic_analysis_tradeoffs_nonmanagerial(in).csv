@@ -1,0 +1,65 @@
+Policy Area,Category,Domain,Open Code,Axial Theme
+Disclosure,Trade-off,High-risk,Ensuring full AI usage transparency increases workload and slows delivery but strengthens accountability and reliability.,Accountability vs. Speed
+Disclosure,Trade-off,High-risk,"PHI, HIPPA VIOLENCE, Law vs A fast structured Release",Compliance and Trust
+Disclosure,Trade-off,High-risk,"Transparency must be detailed users often need to know how AI contributed, what data it used, and what safeguards exist.",Transparency and Traceability Requirements
+Disclosure,Trade-off,High-risk,Making sure that sensitive data is not breached,Compliance and Trust
+Disclosure,Trade-off,High-risk,User Trust vs. Information Overload,Productivity vs. Transparency
+Disclosure,Trade-off,High-risk,Security Concern is a big issue for high risk domain so a detailed disclosure is needed.,Compliance and Trust
+Disclosure,Trade-off,High-risk,"Teams may see disclosure (e.g., documenting AI involvement in a routine blog post) as bureaucratic overhead with little benefit.",Cost/Effort Concerns
+Disclosure,Trade-off,High-risk,"Cyber security, financial, health care, data management",Compliance and Trust
+Disclosure,Trade-off,High-risk,AI Generated code must go through human intervention. No personal data should be shared.,Compliance and Trust
+Disclosure,Trade-off,High-risk,"More transparent (e.g., detailed AI usage disclosures, explainability reports) leads to slower pace of updates.",Accountability vs. Speed
+Disclosure,Trade-off,High-risk,documenting a lot would require additional time.,Cost/Effort Concerns
+Disclosure,Trade-off,High-risk,Developers yet do not trust AI completely... validation filters will be the most important part.,Validation Requirements
+Disclosure,Trade-off,High-risk,Primarily there are compliance and policy related issues between stakeholders,Governance Complexity
+Disclosure,Trade-off,High-risk,Strict compliance provides stronger accountability and trust... but may raise questions about quality.,Compliance and Trust
+Disclosure,Trade-off,High-risk,"Apart from requiring too much documentation, I dont see any challenges in being transparent.",Cost/Effort Concerns
+Disclosure,Trade-off,Low-risk,"Minimal disclosure indeed speeds up development with little impact on compliance, though it provides weaker formal accountability. What if something goes south?",Minimal Disclosure
+Disclosure,Trade-off,Low-risk,Fast delivery vs potential bugs,Productivity vs. Transparency
+Disclosure,Trade-off,Low-risk,"Over-disclosure could overwhelm users and create notice fatigue, where people tune out repeated disclaimers.",Productivity vs. Transparency
+Disclosure,Trade-off,Low-risk,Making the code structure messy without proper control,Process Hygiene Concerns
+Disclosure,Trade-off,Low-risk,Consistency vs. Flexibility,Productivity vs. Transparency
+Disclosure,Trade-off,Low-risk,"Since security is not a big issue for low risk domains, minimal disclosure is enough.",Minimal Disclosure
+Disclosure,Trade-off,Low-risk,"Practitioners may not know how to properly interpret and disclose AI usage, leading to errors or incomplete compliance.",Clarity and Guidelines
+Disclosure,Trade-off,Low-risk,"Documentation,logging",Traceability Needs
+Disclosure,Trade-off,Low-risk,"Sometimes, creating the perfect prompt is a challenge, leading to unwanted or incorrect AI responses.",Practical Burden
+Disclosure,Trade-off,Low-risk,"We usually prefer faster iteration and minimal disclosure, which is usually acceptable in low-risk areas such as ours",Minimal Disclosure
+Disclosure,Trade-off,Low-risk,minimal disclosure is managable,Minimal Disclosure
+Disclosure,Trade-off,Low-risk,Difficult to track which part of the code is written by AI; disclosure of AI-written code not feasible at this moment.,Traceability Limitations
+Disclosure,Trade-off,Low-risk,People often tend to overlook the usage policy for low risk domain,Compliance Drift
+Disclosure,Trade-off,Low-risk,Training developers to do documentation tasks for a low-risk application is overdoing.,Cost/Effort Concerns
+Disclosure,Trade-off,Low-risk,"For simple stuff, extra reporting seems to be overkill.",Cost/Effort Concerns
+Oversight,Trade-off,High-risk,I haven't seen much practice yet to answer this.,Maturity Gap
+Oversight,Trade-off,High-risk,"Safety vs Fast Delivery, Trust vs Doubt",Reliability over Speed
+Oversight,Trade-off,High-risk,Slows down decisions but ensures correctness and fairness.,Accountability vs. Speed
+Oversight,Trade-off,High-risk,Can make reviews lengthy,Resource/Time Burden
+Oversight,Trade-off,High-risk,Meeting safety,Safety Priority
+Oversight,Trade-off,High-risk,Trust vs. Efficiency,Reliability over Speed
+Oversight,Trade-off,High-risk,Meeting safety and reliability is always the highest priority.,Reliability over Speed
+Oversight,Trade-off,High-risk,Time is an important factor for high risk domains and so the product manager needs to think whether to follow the AI usage human oversight policy or not.,Pragmatic Thresholds
+Oversight,Trade-off,High-risk,"Human experts must carefully validate AI outputs, which demands time, specialized skills, and potentially cross-checks.",Resource/Standards Burden
+Oversight,Trade-off,High-risk,"Autonomous driving, health care",Safety Priority
+Oversight,Trade-off,High-risk,Bug testing and fixing is incredibly faster.,Speed Benefit Acknowledged
+Oversight,Trade-off,High-risk,"In high-risk domain, every AI suggestion or contribution must need human oversight",Complete Human Supervision
+Oversight,Trade-off,High-risk,making proper oversight policy is challenging,Governance Complexity
+Oversight,Trade-off,High-risk,Every possible route should be reviewed by a human not an AI. Even the tiniest mistake can be deadly...,Complete Human Supervision
+Oversight,Trade-off,High-risk,resource allocation,Resource/Time Burden
+Oversight,Trade-off,High-risk,Have to create organizational standards for reviewing AI generated code... train developers... more time needed...,Resource/Standards Burden
+Oversight,Trade-off,High-risk,AI generated bug fix should be treated just like a developer fix... testing enforced more strictly.,Testing Rigor
+Oversight,Trade-off,Low-risk,I haven't seen much practice yet to answer this.,Maturity Gap
+Oversight,Trade-off,Low-risk,Reduced bugs vs Speed,Faster Delivery vs. Sporadic Errors
+Oversight,Trade-off,Low-risk,"Oversight can be lightweight (spot checks, periodic audits).",Lightweight Oversight
+Oversight,Trade-off,Low-risk,Can make simple changes complicated,Oversight Burden
+Oversight,Trade-off,Low-risk,Moving fast,Faster Delivery vs. Sporadic Errors
+Oversight,Trade-off,Low-risk,Short-term Gains vs. Long-term Reliability,Faster Delivery vs. Sporadic Errors
+Oversight,Trade-off,Low-risk,AI is not bulletproof... all codes should be reviewed by humans; quick/less detailed reviews on low-risk domains are acceptable.,Human Review Still Needed (Lighter)
+Oversight,Trade-off,Low-risk,Time is not an important factor in low-risk domains so the policy can be followed.,Policy Tolerance in Low-risk
+Oversight,Trade-off,Low-risk,Mandating human-in-the-loop checks for every AI output can feel redundant when consequences are small.,Partial Oversight Preference
+Oversight,Trade-off,Low-risk,Report summarization,Lightweight Oversight
+Oversight,Trade-off,Low-risk,Code generation saves a lot of manual effort.,Faster Delivery vs. Sporadic Errors
+Oversight,Trade-off,Low-risk,Frequent human reviews for trivial changes reduce agility; AI without oversight makes sense here,Partial Oversight Preference
+Oversight,Trade-off,Low-risk,Extra time in code review,Oversight Burden
+Oversight,Trade-off,Low-risk,"In low-risk domain, human-oversight is not required",Partial Oversight Preference
+Oversight,Trade-off,Low-risk,Adds unnecessary complexity,Oversight Burden
+Oversight,Trade-off,Low-risk,Training every developer on AI oversight is a burden for low-risk apps,Training Burden
+Oversight,Trade-off,Low-risk,"Even though its low risk, review should be done properly.",Human Review Still Needed (Lighter)
